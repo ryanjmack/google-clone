@@ -1,0 +1,28 @@
+{
+  "name": "google-clone",
+  "version": "1.0.0",
+  "description": "This is a clone of the Google homepage. It is completely responsive and accommodates all devices. Also the search bar is functional - it will redirect a users input to a real google search. The image search option is also functional and likewise will link a user to a google image search of their input.",
+  "main": "gulp.js",
+  "dependencies": {
+    "gulp-clean-css": "^3.0.3",
+    "gulp-install": "^0.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanjmack/google-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanjmack/google-clone/issues"
+  },
+  "homepage": "https://github.com/ryanjmack/google-clone#readme"
+}
