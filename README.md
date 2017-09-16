@@ -10,14 +10,14 @@ Some notable HTML/CSS techniques I utilized in this project include:
 * Positioning - relative/absolute
 
 
-##Motivation
+## Motivation
 
 I just finished taking Udacity's Intro to HTML/CSS (a refresher), Responsive Web Design and Responsive Images courses. This is a project I completed to practice what I learned in those two courses.
 
 My main motivation was learning the techniques used to make a site responsive without having to rely on a library or framework.
 
 
-##Tests
+## Tests
 
 If you'd like to see the page in action you can check it out [**here**](https://ryanjmack.github.io/google-clone)!
 
